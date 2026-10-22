@@ -1,0 +1,7 @@
+url: https://github.com/zhouxin121/mindvault
+name: zhouxin121/mindvault
+category: memory
+description:
+  en: "Project anchoring and memory for DeepSeek Harness local models (65536 ctx): an always-fresh PROJECT_SNAPSHOT (positioning, red lines, key facts, decisions) plus FACT rules updated in place the moment something worth remembering happens - both survive compaction. Red-line section keeps branch discussions inside the project frame; grayscale DRAS-V checklist adds conditions to conclusions; optional zstd archive for detail recall. Pure stdlib, Chinese-first."
+  zh: "面向 DeepSeek Harness 本地大模型（65536 上下文）的项目锚定与记忆：PROJECT_SNAPSHOT（定位/红线/关键事实/决定）+ FACT 规则随时行级更新，compaction 压不掉的外部锚；红线区约束分支讨论不偏离项目核心框架；DRAS-V 思考协议含灰度自检（结论带边界/判死前三问/数据出处分级）；可选 zstd 对话归档追溯细节。纯标准库，中文优先。"
+tarball: https://github.com/zhouxin121/mindvault/releases/download/mindvault-dsh-v1.0.0/mindvault-dsh-1.0.0.tgz
